@@ -54,4 +54,20 @@ Go to http://127.0.0.1:8000/
 
 
 
-   
+
+
+🧑‍🎓 Educational Objectives
+Understand Python as both a scripting and web development language
+
+Learn how to structure a Django project using MVC/MVT
+
+Gain experience in deploying CRUD functionality
+
+Practice teamwork and version control with Git/GitHub
+
+📬 Credits
+Instructor: Mr. Omar Alkhrissat
+
+Students: CIS-189 (Spring 2025)
+
+Tools: Randstad Python Curriculum, Django Docs, Visual Studio Code,/ PyCharm
